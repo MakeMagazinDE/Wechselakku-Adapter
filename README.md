@@ -10,7 +10,7 @@ Makita-Akkus an anderen Akkugeräte betreiben
 
 Der Adapter wurde mit Openscad konstruiert. 
 
-![Picture](https://github.com/heise/Internetradio/blob/master/radio.png) 
+![Picture](https://github.com/MakeMagazinDE/Wechselakku-Adapter/blob/main/Aufmacher.jpg) 
 
 Den vollständigen Artikel mit der Bauanleitung gibt es in der **[Make-Ausgabe 6/23 ab Seite 64](https://www.heise.de/select/make/2023/6/2324912374226650003)** zu lesen. 
 Hier gibt es die die Konstruktions- und 3D-Druckdateien.
